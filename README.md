@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Ronak — a Backend Developer who loves clean logic and scalable systems
 
-<!--
-**ronak026/ronak026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I specialize in building robust backend infrastructures with:
+- 🐍 Django + PostgreSQL for structured web applications
+- 🌐 RESTful API creation and integration
+- 🔒 User authentication and secure data handling
+- 📦 Deployment workflows using Git and Node environments
 
-Here are some ideas to get you started:
+🧩 I enjoy solving complex challenges, like:
+- 🌪️ ECONNREFUSED errors and system-wide bugs
+- 🛠️ Designing efficient database schemas
+- 🔗 Creating seamless data pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 My Core Stack:
+`Django` · `PostgreSQL` · `MongoDB` · `Node.js` · `Express.js` · `Git & GitHub`
+
+📂 Featured Projects:
+- 🛍️ Django-based eCommerce platform
+- 🔧 Admin Dashboard with role-based access
+- ☁️ Weather API integration with backend data services
+- 🧠 Sudoku Puzzle Solver with backend logic
+
+💬 I believe great systems are invisible until they fail—and I’m here to build ones that don’t.
+
+---
