@@ -12,7 +12,7 @@
 - 🔗 Creating seamless data pipelines
 
 🧰 My Core Stack:
-`Django` · `PostgreSQL` · `MongoDB` · `Html` . `Css`
+`Python` . `Django` · `PostgreSQL` · `MongoDB` · `Html` . `Css`
 
 📂 Featured Projects:
 - 🛍️ Django-based eCommerce platform
