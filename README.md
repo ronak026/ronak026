@@ -23,6 +23,7 @@
 - 📊 GitHub Stats
 
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronak026&show_icons=true&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 💬 I believe great systems are invisible until they fail—and I’m here to build ones that don’t.
 
